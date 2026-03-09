@@ -9,19 +9,6 @@ User Friendly Interface – Simple and responsive design.
  User Authentication – Login and registration system.
 Data Visualization – Graphs and charts for health insights.
 Future AI Integration – Health prediction and recommendations.
-# System Architecture
-The application follows a three-tier architecture:
-Frontend
-User interface
-Health data input
-Dashboard display
-Backend
-REST API
-Data processing
-Authentication
-Database
-Health data storage
-User records
 # Tech Stack
 Frontend
 HTML
@@ -79,3 +66,6 @@ Display Charts & Insights
   |
   v
 END
+# runcode
+npm install
+node server.js
